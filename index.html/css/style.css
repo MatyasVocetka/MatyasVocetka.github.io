@@ -1,0 +1,97 @@
+body {
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+    background-image: url("file:///C:/Users/Miky%20Telekuk/Desktop/myFirstWebsite/assets/background.png");
+    background-position: center center; 
+    background-size: auto; 
+
+    
+}
+
+
+.logotainer {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+.containertext {
+    width: auto;
+    height: 65px;
+    background-color: rgb(37, 39, 41);
+    text-align: right;
+    padding-right: 150px;
+}
+
+
+.navigation {
+    padding-top: 0px;
+    text-align: right;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.right {
+    color: black;
+    display: inline;
+    color: rgb(247, 20, 115);
+    text-decoration: underline;
+    font-size: 20px;    
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 15px;
+
+}
+
+.rightlast {
+    color: black;
+    display: inline;
+    color: rgb(247, 20, 115);
+    text-decoration: underline;
+    font-size: 20px;    
+    text-align: right;
+    padding-top: 15px;
+}
+
+.site {
+    padding-left: 150px;
+    padding-right: 150px;
+    background-image: "background.png"
+}
+
+h1 {
+    font-size: 40px;
+}
+   
+
+
+h2 {
+    color: rgb(207, 29, 103)
+
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+    color:slategrey
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+a:visited{
+    color:inherit;
+  }
+
+a:hover {
+    color: white;
+}
+
